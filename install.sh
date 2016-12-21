@@ -2,7 +2,7 @@
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 #=================================================================#
-#   System Required:  Debian7/8, Ubuntu14.04                      #
+#   System Required:  Debian7/8, Ubuntu14.04，Centos6             #
 #   Description: One click Install ShadowsocksR Server            #
 #   Thanks: @hellofwy <https://github.com/hellofwy>               #
 #   Fork: @FunctionClub <https://github.com/FunctionClub>         #
