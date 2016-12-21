@@ -5,6 +5,7 @@ export PATH
 #   System Required:  Debian7/8, Ubuntu14.04,centos6              #
 #   Description: One click Install ShadowsocksR Server            #
 #   Thanks: @hellofwy <https://github.com/hellofwy>               #
+#   Version：1.3                                                  #
 #   Author： AlphaBrock https://alphabrock.cn                     #
 #=================================================================#
 
