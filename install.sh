@@ -94,7 +94,6 @@ else
     apt-get -y install python python-dev python-pip python-m2crypto curl wget unzip gcc swig automake make perl cpio build-essential git ntpdate
     pip install shadowsocks
 fi
-cd $cur_dir
 }
 
 #Set Time Zone
