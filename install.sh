@@ -97,7 +97,8 @@ function pre_install(){
         yum install -y m2crypto automake make curl curl-devel zlib-devel perl perl-devel cpio expat-devel gettext-devel
     else
         apt-get -y update
-        apt-get -y install python python-dev python-pip python-m2crypto curl wget unzip gcc swig automake make perl cpio build-essential git ntpdate
+        apt-get -y install git tar python unzip bc python-m2crypto curl wget unzip gcc swig automake make perl cpio build-essential ntpdate
+	apt-get install language-pack-zh-hans -y
     fi
 }
 
