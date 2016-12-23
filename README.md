@@ -41,7 +41,7 @@ ssr
 
 ## 卸载 ##
 ```bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/AlphaBrock/SSR-Bash/master/uninstall.sh && bash uninstall.sh
+bash install.sh uninstall
 ```
 
 ## 开源许可 ##
