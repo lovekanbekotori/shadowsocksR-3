@@ -175,7 +175,7 @@ function uninstall_shadowsocks(){
             update-rc.d -f shadowsocks remove
         fi
         rm -rf /usr/local/SSR-Bash
-        rm -rf /usr/local/shadowsocks
+        rm -rf /usr/local/shadowsocksr
         rm -rf /usr/local/bin/ssr
         echo -e "\033[42:37m [Tips] \033[0m ShadowsocksR uninstall success!"
     else
