@@ -110,7 +110,7 @@ function pre_install(){
 
 function Clone_Something(){
 cd /usr/local
-git clone  https://github.com/breakwa11/shadowsocks.git                                       
+git clone https://github.com/shadowsocksr/shadowsocksr.git                                      
 git clone https://github.com/AlphaBrock/SSR-Bash 
 }
 
