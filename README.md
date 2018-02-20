@@ -33,7 +33,7 @@ ShadowsocksR多用户管理脚本
 
 ## 安装 ##
 ```bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/AlphaBrock/SSR-Bash/master/install.sh && bash install.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/lovekanbekotori/SSR-Bash/master/install.sh && bash install.sh
 ```
 
 ## 使用 ##
